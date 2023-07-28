@@ -1,0 +1,12 @@
+body{
+  background-image: url('image/wallpaperflare.com_wallpaper.jpg');
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+.flex-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  opacity: 0.59;
+}
